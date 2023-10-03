@@ -1,6 +1,6 @@
 # JupyterLab-ce
-
-# Usage
+>> For macOS 
+## Usage
 ```
 docker compose up -d --build
 ```
