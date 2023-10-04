@@ -10,5 +10,8 @@ docker compose up -d --build
 http://py3.jupyterlab-ce.orb.local/lab
 
 ![SS](./asset/IMGjupyterlab-ce_running.jpg)
-
+  
+---
+>  Learn more about OrbStack [here](https://orbstack.dev/)  
+  
 ^C
