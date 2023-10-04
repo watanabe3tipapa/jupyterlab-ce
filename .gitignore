@@ -1,4 +1,5 @@
 workspace/*.ipynb
 workspace/*.md
+.DS_Store
 
 
