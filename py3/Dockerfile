@@ -38,6 +38,7 @@ RUN pip install --no-cache-dir \
     mlxtend \
     seaborn \
     plotly \
+    dash \ 
     requests \
     beautifulsoup4 \
     Pillow \
